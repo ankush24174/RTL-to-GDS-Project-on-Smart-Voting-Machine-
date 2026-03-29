@@ -6,7 +6,7 @@ This group project was completed in two phases: RTL-to-DFT implementation and ph
 
 - Performed logic synthesis for three constraint scenarios:
   - Minimum Area
-  - Minimum Time
+  - Tight Timing
   - Intermediate
 - Created and applied constraint files for each case.
 - Executed Combinational Equivalence Checking (CEC).
@@ -19,7 +19,7 @@ This group project was completed in two phases: RTL-to-DFT implementation and ph
 
 - Floorplan configuration:
   - Aspect ratio: 1
-  - Utilization: 0.8
+  - Utilization: 0.8 & 0.5
   - Core margin clearance
 
 - Defined I/O pins manually (no I/O cells in the design).
